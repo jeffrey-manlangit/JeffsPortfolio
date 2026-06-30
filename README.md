@@ -67,20 +67,11 @@ Currently transitioning into a **Software Tester / QA Engineer** role.
 
 # 💻 Technical Skills
 
-### QA & Testing
-
-- [qTest SaaS](https://www.tricentis.com/products/qtest)
-- [qTest OnPremise](https://www.tricentis.com/products/qtest)
-- [Tosca](https://www.tricentis.com/products/tosca)
-- [Selenium](https://www.selenium.dev/)
-- [Postman](https://www.postman.com/)
-- [Swagger](https://swagger.io/)
-- [cURL](https://curl.se/)
 
 ### Quality Assurance & Testing Tools
 
 - [qTest SaaS & OnPremise](https://www.tricentis.com/products/qtest)
-- [qTest Automation Host](https://documentation.tricentis.com/qtest-automation-host/)
+- [qTest Automation Host](https://docs.tricentis.com/qtest-saas/content/launch/automation_host/qtest_automation_host_installation_and_upgrade_guide_master_list.htm)
 - [Selenium](https://www.selenium.dev/)
 - [Tosca Server & Commander](https://www.tricentis.com/products/tosca)
 - [Postman](https://www.postman.com/)
