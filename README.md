@@ -77,6 +77,8 @@ Currently transitioning into a **Software Tester / QA Engineer** role.
 - [Postman](https://www.postman.com/)
 - [Swagger](https://swagger.io/)
 - [cURL](https://curl.se/)
+- [PowerApps](https://www.microsoft.com/en-us/power-platform/products/power-apps)
+- [PowerAutomate](https://www.microsoft.com/en-us/power-platform/products/power-automate)
 
 ### Issue Tracking & Collaboration
 
