@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Manlangit</h1>
 
 <h3 align="center">
-Software Tester • QA Engineer • Technical Support Engineer
+QA Software Technical Support Engineer (L2)
 </h3>
 
 <p align="center">
@@ -131,37 +131,8 @@ Currently transitioning into a **Software Tester / QA Engineer** role.
 
 This repository contains examples of my QA work including:
 
-- ✅ Test Cases
-- ✅ Bug Reports
-- ✅ API Testing Collections
-- ✅ SQL Validation Scripts
-- ✅ Test Plans
-- ✅ Test Strategy
-- ✅ Exploratory Testing Reports
-- ✅ Regression Test Suites
-- ✅ Defect Lifecycle Documentation
-- ✅ QA Case Studies
-
----
-
-# 📈 Current Learning
-
-🌱 Improving my skills in
-
-- Selenium WebDriver
-- Test Automation
-- Playwright
-- CI/CD
-- Git
-- Docker
-
----
-
-# 🎯 Career Goals
-
-I enjoy solving complex software problems and collaborating with Engineering teams to improve product quality.
-
-My goal is to grow as a Software Tester / QA Engineer while continuously improving my skills in automation, quality engineering, and modern testing practices.
+- ✅ [Selenium-dotnet-framework](https://github.com/jeffrey-manlangit/selenium-java-framework)
+- ✅ [Selenium-java-framework](https://github.com/jeffrey-manlangit/selenium-dotnet-framework)
 
 ---
 
