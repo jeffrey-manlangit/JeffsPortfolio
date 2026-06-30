@@ -50,18 +50,27 @@ Currently transitioning into a **Software Tester / QA Engineer** role.
 
 # 🧪 QA Skills
 
+- Issue Reproduction
 - Test Planning
-- Test Case Design
-- Test Case Execution
+- Test Case Design and Execution
+- Test Documentation
+- Defect Lifecycle Management
+- Defect Triage
 - Bug Reporting
 - Defect Verification
-- Issue Reproduction
-- Exploratory Testing
-- Smoke Testing
-- Integration Testing
-- User Acceptance Testing (UAT)
 - Root Cause Analysis
+- Manual, Functional, Regression and Smoke Testing
+- Integration and Exploratory Testing
+- User Acceptance Testing (UAT)
+- API Testing
+- Database Testing
+- Data Validation
+- SQL Query Development
+- Log Analysis
+- Software Troubleshooting
 - Release Validation
+- Cross-functional Collaboration
+- Agile / Scrum
 
 ---
 
@@ -70,7 +79,6 @@ Currently transitioning into a **Software Tester / QA Engineer** role.
 
 ### Quality Assurance & Testing Tools
 
-- [qTest SaaS & OnPremise](https://www.tricentis.com/products/qtest)
 - [qTest Automation Host](https://docs.tricentis.com/qtest-saas/content/launch/automation_host/qtest_automation_host_installation_and_upgrade_guide_master_list.htm)
 - [Selenium](https://www.selenium.dev/)
 - [Tosca Server & Commander](https://www.tricentis.com/products/tosca)
@@ -84,6 +92,7 @@ Currently transitioning into a **Software Tester / QA Engineer** role.
 
 - [Jira](https://www.atlassian.com/software/jira)
 - [ServiceNow](https://www.servicenow.com/)
+- [qTest SaaS & OnPremise](https://www.tricentis.com/products/qtest)
 
 ### Databases
 
